@@ -136,7 +136,7 @@ local function run(msg, matches)
 local support_id = msg.from.id
  if matches[1]:lower() == 'id' and msg.to.type == "chat" or msg.to.type == "user" then
     if msg.to.type == "user" then
-      return "Your name:"..string.gsub(msg.from.print_name, "_", " ").. "Your id:"..msg.from.id.. "\nYour Username: @"..msg.from.username.. "\nYour Link:\nhttps://telegram.me/"..msg.from.username
+      return "Your name:"..string.gsub(msg.from.print_name, "_", " ").. "\nYour id:"..msg.from.id.. "\nYour Username: @"..msg.from.username.. "\nYour Link:\nhttps://telegram.me/"..msg.from.username
     end
     if type(msg.reply_id) ~= "nil" then
       local print_name = user_print_name(msg.from):gsub("‮", "")
