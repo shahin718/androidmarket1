@@ -96,7 +96,7 @@ cat << EOF
  
 EOF
 echo -e "                \e[100m                Steady script           \e[00;37;40m"
-echo -e "               \e[01;34m                    by CRUEL M.KH                 \e[00;37;40m"
+echo -e "               \e[01;34m                    by CleverBoy                 \e[00;37;40m"
 echo ""
 cat << EOF
  $bld$f1▄ ▀▄   ▄▀ ▄   $f2 ▄▄▄████▄▄▄    $f3  ▄██▄     $f4▄ ▀▄   ▄▀ ▄   $f5 ▄▄▄████▄▄▄    $f6  ▄██▄  $rst
@@ -274,11 +274,11 @@ sleep 0.5
 
 
 echo ""
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
 # Starting preliminar setup
 sleep 1.5
 echo -e "$bld$f4 CHECKING PROCESSES...$rst"
@@ -540,15 +540,15 @@ while getopts ":tsTSih" opt; do
 	i)
 	echo -e "\e[1m"
 	echo -e ""
-	echo "steady.sh bash script v1 CRUEL 2016 GPMOD" >&2
+	echo "steady.sh bash script v1 KnightTeam 2016 CleverBoy" >&2
 	echo ""
 	echo -e "\e[0m"
 
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
-echo -e "\033[38;5;208m @GPMod    :)      @cruel_channel \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam    :)      @KnightTeam \033[0;00m"
+echo -e "\033[38;5;208m @KnightTeam   :)      @KnightTeam \033[0;00m"
 echo ""
 	exit 1
       ;;
