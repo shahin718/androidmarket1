@@ -213,40 +213,30 @@ function create_config( )
   config = {
     enabled_plugins = {
 	"admin",
-    "onservice",
-    "inrealm",
-    "ingroup",
-    "inpm",
-    "banhammer",
-    "stats",
-    "anti_spam",
-    "owners",
-    "arabic_lock",
-    "set",
-    "get",
-    "broadcast",
-    "invite",
-    "all",
-    "leave_ban",
+	"onservice",
+	"inrealm",
+	"ingroup",
+	"inpm",
+	"banhammer",
+	"stats",
+	"anti_spam",
+	"owners",
+	"arabic_lock",
+	"set",
+	"get",
+	"broadcast",
+	"invite",
+	"all",
+	"leave_ban",
 	"supergroup",
 	"whitelist",
 	"msg_checks",
-	"rmsg"
+	"rmsg",
+	"toph",
+	"tost"
     },
     sudo_users = {110587534,161141712},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[KnightTeam
-    
-    Welcome to KnightTeam source
-    
-    
-    Admins:
-    1.CleverBoy [@cleverguy]
-    2.mohammadwh [@whitehacker]
-    3.Reza [@P_u_k_e_r_a_m]
-    
-    #THX
-]],
     help_text_realm = [[
 Realm Commands:
 
