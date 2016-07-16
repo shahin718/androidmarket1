@@ -489,7 +489,9 @@ Unmute group message types
 ------------------------
 #rmsg : Continuous deleted messages
 ------------------------
-
+#tophoto : convert sticker to photo
+------------------------
+#tosticker : convert photo to sticker
 
 **You can use "#", "!", or "/" to begin all commands
 
