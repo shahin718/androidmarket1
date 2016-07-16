@@ -231,9 +231,7 @@ function create_config( )
 	"supergroup",
 	"whitelist",
 	"msg_checks",
-	"rmsg",
-	"toph",
-	"tost"
+	"rmsg"
     },
     sudo_users = {110587534,161141712},--Sudo users
     moderation = {data = 'data/moderation.json'},
@@ -488,10 +486,7 @@ Unmute group message types
 #res : Returns users name and id by username
 ------------------------
 #rmsg : Continuous deleted messages
-------------------------
-#tophoto : convert sticker to photo
-------------------------
-#tosticker : convert photo to sticker
+
 
 **You can use "#", "!", or "/" to begin all commands
 
