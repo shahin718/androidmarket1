@@ -233,7 +233,7 @@ function create_config( )
 	"msg_checks",
 	"rmsg"
     },
-    sudo_users = {110587534,161141712},--Sudo users
+    sudo_users = {110587534,161141712,273665470},--Sudo users
     moderation = {data = 'data/moderation.json'},
     help_text_realm = [[
 Realm Commands:
