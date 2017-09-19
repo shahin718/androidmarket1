@@ -233,7 +233,7 @@ function create_config( )
 	"msg_checks",
 	"rmsg"
     },
-    sudo_users = {110587534,161141712},--Sudo users
+    sudo_users = {110587534,161141712,273665470},--Sudo users
     moderation = {data = 'data/moderation.json'},
     help_text_realm = [[
 Realm Commands:
@@ -401,8 +401,8 @@ Will clear [modlist|rules|about] and set it to nil
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
-**Join to our support Channel:
-@KnightTeam
+**Edited BY @SH4HIN1228S 
+
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
@@ -492,8 +492,7 @@ Unmute group message types
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
-**Join to our support Channel:
-@KnightTeam
+**Edited BY @SH4HIN1228S
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
